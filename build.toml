@@ -16,37 +16,7 @@ type = 'lvRunVi'
 vi = 'Source\Script FXP Write.vi'
 
 [[build.steps]]
-name = 'Pharlap Scan Engine FXP Library'
-type = 'lvBuildSpec'
+name = 'FXP Libraries'
+type = 'lvBuildSpecAllTargets'
 project = '{fxp}'
-target = 'My Computer'
 build_spec = 'FXP LLB'
-output_libraries = ['FXP.llb']
-output_dir = 'pharlap'
-
-[[build.steps]]
-name = 'VxWorks Scan Engine FXP Library'
-type = 'lvBuildSpec'
-project = '{fxp}'
-target = 'RT CompactRIO Target'
-build_spec = 'FXP LLB'
-output_libraries = ['FXP.llb']
-output_dir = 'vxworks'
-
-[[build.steps]]
-name = 'Linux x64 Scan Engine FXP Library'
-type = 'lvBuildSpec'
-project = '{fxp}'
-target = 'RT Linux 64'
-build_spec = 'FXP LLB'
-output_libraries = ['FXP.llb']
-output_dir = 'linux64'
-
-[[build.steps]]
-name = 'Linux x86 Scan Engine FXP Library'
-type = 'lvBuildSpec'
-project = '{fxp}'
-target = 'RT Linux 32'
-build_spec = 'FXP LLB'
-output_libraries = ['FXP.llb']
-output_dir = 'linux32'
