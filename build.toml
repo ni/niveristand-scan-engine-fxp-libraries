@@ -20,3 +20,6 @@ name = 'FXP Libraries'
 type = 'lvBuildSpecAllTargets'
 project = '{fxp}'
 build_spec = 'FXP LLB'
+
+[notification]
+type = 'teams'
