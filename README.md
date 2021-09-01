@@ -4,7 +4,7 @@ These are the source VIs used to script and build (into an LLB) the FXP UDV read
 
 ## LabVIEW Version
 
-LabVIEW 2017
+LabVIEW 2019
 
 ## Dependencies
 
