@@ -21,6 +21,144 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="FXP LLB" Type="Folder">
+			<Item Name="FXP Read - signed" Type="Folder">
+				<Item Name="Scanned Variable Read (FXP) - 1 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 1 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 2 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 2 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 3 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 3 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 4 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 4 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 5 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 5 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 6 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 6 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 7 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 7 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 8 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 8 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 9 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 9 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 10 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 10 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 11 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 11 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 12 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 12 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 13 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 13 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 14 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 14 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 15 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 15 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 16 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 16 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 17 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 17 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 18 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 18 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 19 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 19 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 20 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 20 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 21 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 21 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 22 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 22 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 23 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 23 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 24 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 24 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 25 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 25 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 26 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 26 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 27 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 27 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 28 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 28 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 29 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 29 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 30 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 30 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 31 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 31 bit - signed.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 32 bit - signed.vi" Type="VI" URL="../FXP Read - signed/Scanned Variable Read (FXP) - 32 bit - signed.vi"/>
+			</Item>
+			<Item Name="FXP Read - unsigned" Type="Folder">
+				<Item Name="Scanned Variable Read (FXP) - 1 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 1 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 2 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 2 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 3 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 3 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 4 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 4 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 5 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 5 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 6 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 6 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 7 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 7 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 8 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 8 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 9 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 9 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 10 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 10 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 11 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 11 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 12 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 12 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 13 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 13 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 14 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 14 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 15 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 15 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 16 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 16 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 17 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 17 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 18 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 18 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 19 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 19 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 20 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 20 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 21 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 21 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 22 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 22 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 23 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 23 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 24 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 24 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 25 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 25 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 26 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 26 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 27 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 27 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 28 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 28 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 29 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 29 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 30 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 30 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 31 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 31 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Read (FXP) - 32 bit - unsigned.vi" Type="VI" URL="../FXP Read - unsigned/Scanned Variable Read (FXP) - 32 bit - unsigned.vi"/>
+			</Item>
+			<Item Name="FXP Write - signed" Type="Folder">
+				<Item Name="Scanned Variable Write (FXP) - 1 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 1 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 2 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 2 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 3 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 3 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 4 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 4 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 5 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 5 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 6 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 6 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 7 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 7 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 8 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 8 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 9 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 9 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 10 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 10 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 11 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 11 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 12 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 12 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 13 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 13 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 14 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 14 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 15 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 15 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 16 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 16 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 17 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 17 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 18 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 18 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 19 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 19 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 20 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 20 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 21 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 21 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 22 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 22 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 23 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 23 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 24 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 24 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 25 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 25 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 26 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 26 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 27 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 27 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 28 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 28 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 29 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 29 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 30 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 30 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 31 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 31 bit - signed.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 32 bit - signed.vi" Type="VI" URL="../FXP Write - signed/Scanned Variable Write (FXP) - 32 bit - signed.vi"/>
+			</Item>
+			<Item Name="FXP Write - unsigned" Type="Folder">
+				<Item Name="Scanned Variable Write (FXP) - 1 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 1 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 2 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 2 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 3 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 3 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 4 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 4 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 5 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 5 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 6 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 6 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 7 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 7 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 8 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 8 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 9 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 9 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 10 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 10 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 11 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 11 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 12 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 12 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 13 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 13 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 14 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 14 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 15 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 15 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 16 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 16 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 17 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 17 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 18 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 18 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 19 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 19 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 20 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 20 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 21 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 21 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 22 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 22 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 23 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 23 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 24 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 24 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 25 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 25 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 26 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 26 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 27 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 27 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 28 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 28 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 29 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 29 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 30 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 30 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 31 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 31 bit - unsigned.vi"/>
+				<Item Name="Scanned Variable Write (FXP) - 32 bit - unsigned.vi" Type="VI" URL="../FXP Write - unsigned/Scanned Variable Write (FXP) - 32 bit - unsigned.vi"/>
+			</Item>
+		</Item>
 		<Item Name="FXP Scripts" Type="Folder">
 			<Item Name="FXP Read base - CAR 397265.vi" Type="VI" URL="../FXP Read base - CAR 397265.vi"/>
 			<Item Name="FXP Read base.vi" Type="VI" URL="../FXP Read base.vi"/>
@@ -37,7 +175,35 @@
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="FXP LLB" Type="Source Distribution">
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{99F8CCD0-5986-45EB-9E9E-AAEBCD3C8A8F}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">FXP LLB</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Built/Windows/FXP.llb</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{26E42746-002C-4462-A8F9-11401C1E3741}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
+				<Property Name="Destination[0].path" Type="Path">../Built/Windows/FXP.llb</Property>
+				<Property Name="Destination[0].type" Type="Str">LLB</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../Built/NI_AB_PROJECTNAME/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{CE51B0A9-61F2-41FD-B8CC-20BF989E26C0}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[1].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/FXP LLB</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[1].type" Type="Str">Container</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="Linux x64" Type="RT PXI Chassis">
 		<Property Name="alias.name" Type="Str">RT PXI Target</Property>
@@ -238,7 +404,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BA79FDEE-6314-4A29-9FF7-68D9519F2CCF}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/Linux_x64/FXP.llb</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/Linux_x64/FXP.llb</Property>
@@ -248,47 +414,15 @@
 				<Property Name="Destination[1].path" Type="Path">/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{C9E429D0-2FB8-4A56-8785-CFE84D8AA2E4}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C9565C3B-DD71-44F5-995E-3BE60D913D4A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/RT Linux 64/FXP LLB/FXP Read - signed</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/Linux x64/FXP LLB</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">Container</Property>
-				<Property Name="Source[2].Container.applyDestination" Type="Bool">true</Property>
-				<Property Name="Source[2].Container.applyProperties" Type="Bool">true</Property>
-				<Property Name="Source[2].Container.applySaveSettings" Type="Bool">true</Property>
-				<Property Name="Source[2].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/RT Linux 64/FXP LLB</Property>
-				<Property Name="Source[2].properties[0].type" Type="Str">Allow debugging</Property>
-				<Property Name="Source[2].properties[0].value" Type="Bool">false</Property>
-				<Property Name="Source[2].properties[1].type" Type="Str">Remove front panel</Property>
-				<Property Name="Source[2].properties[1].value" Type="Bool">true</Property>
-				<Property Name="Source[2].properties[2].type" Type="Str">Remove block diagram</Property>
-				<Property Name="Source[2].properties[2].value" Type="Bool">true</Property>
-				<Property Name="Source[2].propertiesCount" Type="Int">3</Property>
-				<Property Name="Source[2].type" Type="Str">Container</Property>
-				<Property Name="Source[3].Container.applyInclusion" Type="Bool">true</Property>
-				<Property Name="Source[3].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/RT Linux 64/FXP LLB/FXP Read - unsigned</Property>
-				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[3].type" Type="Str">Container</Property>
-				<Property Name="Source[4].Container.applyInclusion" Type="Bool">true</Property>
-				<Property Name="Source[4].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[4].itemID" Type="Ref">/RT Linux 64/FXP LLB/FXP Write - signed</Property>
-				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[4].type" Type="Str">Container</Property>
-				<Property Name="Source[5].Container.applyInclusion" Type="Bool">true</Property>
-				<Property Name="Source[5].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/RT Linux 64/FXP LLB/FXP Write - unsigned</Property>
-				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[5].type" Type="Str">Container</Property>
-				<Property Name="SourceCount" Type="Int">6</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
 			</Item>
 		</Item>
 	</Item>
