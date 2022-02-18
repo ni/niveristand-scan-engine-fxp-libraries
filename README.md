@@ -6,11 +6,6 @@ These are the source VIs used to script and build (into an LLB) the FXP UDV read
 
 LabVIEW 2019
 
-## Dependencies
-
-- NI CompactRIO
-- NI-Industrial Communications for EtherCAT
-
 ## Git History & Rebasing Policy
 Branch rebasing and other history modifications will be listed here, with several notable exceptions:
 - Branches prefixed with `dev/` may be rebased, overwritten, or deleted at any time.
