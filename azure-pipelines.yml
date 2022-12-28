@@ -43,5 +43,3 @@ stages:
       quarterlyReleaseVersion: '2023 Q1'
       buildOutputLocation: 'Built'
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\prototype\scan_engine_fxp'
-      pack: false
-      packages: none
