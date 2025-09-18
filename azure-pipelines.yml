@@ -19,15 +19,9 @@ stages:
 
       lvVersionsToBuild:
         - version: '2023'
-          bitness: '32bit'
-        - version: '2023'
           bitness: '64bit'          
         - version: '2024'
-          bitness: '32bit'
-        - version: '2024'
           bitness: '64bit'
-        - version: '2025'
-          bitness: '32bit'
         - version: '2025'
           bitness: '64bit'
 
