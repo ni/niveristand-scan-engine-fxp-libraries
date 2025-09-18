@@ -18,17 +18,17 @@ stages:
     parameters:
 
       lvVersionsToBuild:
-        - version: '2023'
+        - version: '2024'
           bitness: '32bit'
-        - version: '2023'
+        - version: '2024'
           bitness: '64bit'          
-        - version: '2024'
+        - version: '2025'
           bitness: '32bit'
-        - version: '2024'
+        - version: '2025'
           bitness: '64bit'
-        - version: '2025'
+        - version: '2026'
           bitness: '32bit'
-        - version: '2025'
+        - version: '2026'
           bitness: '64bit'
 
       codegenVis:
@@ -41,6 +41,6 @@ stages:
           target: 'All'
           buildSpec: 'FXP LLB'
 
-      releaseVersion: '25.0.0'
+      releaseVersion: '26.0.0'
       buildOutputLocation: 'Built'
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\scan_engine_fxp'
