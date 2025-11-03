@@ -4,7 +4,7 @@ These are the source VIs used to script and build (into an LLB) the FXP UDV read
 
 ## LabVIEW Version
 
-LabVIEW 2020
+LabVIEW 2024
 
 ## Git History & Rebasing Policy
 Branch rebasing and other history modifications will be listed here, with several notable exceptions:
