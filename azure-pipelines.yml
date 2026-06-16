@@ -44,3 +44,5 @@ stages:
       releaseVersion: '26.5.0'
       buildOutputLocation: 'Built'
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\scan_engine_fxp'
+      repoName: 'niveristand-scan-engine-fxp-libraries'
+      createNetCoreRepo: true
