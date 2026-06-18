@@ -46,3 +46,23 @@ stages:
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\scan_engine_fxp'
       repoName: 'niveristand-scan-engine-fxp-libraries'
       createNetCoreRepo: true
+
+  - template: azure-templates/linux-stage.yml@niveristand-custom-device-build-tools
+    parameters:
+      lvVersionsToBuild:
+        - version: '2026'
+          bitness: '64bit'
+
+      buildSteps:
+        - id: 'fxp_llb_linux'
+          projectLocation: 'Source/FXP LLB.lvproj'
+          buildOperation: 'ExecuteBuildSpec'
+          target: 'My Computer'
+          buildSpec: 'FXP LLB'
+
+      releaseVersion: '26.5.0'
+      branch: 'main'
+      debugBuild: 'no'
+      buildOutputLocation: 'Built'
+      archiveLocation: '\\nirvana\Measurements\VeriStandAddons\scan_engine_fxp'
+      repoName: 'niveristand-scan-engine-fxp-libraries'
