@@ -30,6 +30,10 @@ stages:
           bitness: '32bit'
         - version: '2026'
           bitness: '64bit'
+        - version: '2027'
+          bitness: '32bit'
+        - version: '2027'
+          bitness: '64bit'
 
       codegenVis:
         - 'Source\Script FXP Read.vi'
@@ -41,7 +45,7 @@ stages:
           target: 'All'
           buildSpec: 'FXP LLB'
 
-      releaseVersion: '26.5.0'
+      releaseVersion: '26.8.0'
       buildOutputLocation: 'Built'
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\scan_engine_fxp'
       repoName: 'niveristand-scan-engine-fxp-libraries'
