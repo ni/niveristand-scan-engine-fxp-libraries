@@ -18,18 +18,6 @@ stages:
     parameters:
 
       lvVersionsToBuild:
-        - version: '2024'
-          bitness: '32bit'
-        - version: '2024'
-          bitness: '64bit'          
-        - version: '2025'
-          bitness: '32bit'
-        - version: '2025'
-          bitness: '64bit'
-        - version: '2026'
-          bitness: '32bit'
-        - version: '2026'
-          bitness: '64bit'
         - version: '2027'
           bitness: '32bit'
         - version: '2027'
@@ -45,8 +33,8 @@ stages:
           target: 'All'
           buildSpec: 'FXP LLB'
 
-      releaseVersion: '26.8.0'
+      releaseVersion: '27.0.0'
       buildOutputLocation: 'Built'
-      archiveLocation: '\\nirvana\Measurements\VeriStandAddons\scan_engine_fxp'
+      archiveLocation: '\\nirvana\Measurements\VeriStandAddons\netcore\scan_engine_fxp'
       repoName: 'niveristand-scan-engine-fxp-libraries'
-      createNetCoreRepo: true
+      createNetCoreRepo: false
